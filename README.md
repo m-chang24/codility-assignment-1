@@ -1,0 +1,1 @@
+# codility-assignment-1
